@@ -1,0 +1,10 @@
+screen_id  screen_name  Avl. Seats 
+1	Platinum		70
+1	Gold		70
+1	Silver		70
+2	Platinum		65
+2	Gold		70
+2	Silver		70
+3	Platinum		70
+3	Gold		70
+3	Silver		70

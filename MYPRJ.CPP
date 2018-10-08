@@ -7,10 +7,9 @@
 
      /*****************************************************************
       *	Application      : Cinema Ticket Booking	              *
-      *	Created By       : Shilpa Meghani                             *
+      *	Created By       : Shilpa                                     *
       *	Enrollment Number: 115370693003				      *
       * Subject Code     : 2620007                                    *
-      * E - mail ID      : shilpajv78@gmail.com		              *
       *	Guided By        : Mr. Praful Nanda                           *
       *****************************************************************/
 
@@ -75,11 +74,11 @@ void login :: verify()
 	cout<<" SUBJECT:CINEMA TICKET BOOKING";
 	gotoxy(24,9);
 	cout<<" DEVELOPED BY : ";
-	cout<<"SHILPA MEGHANI";
+	cout<<"USER";
 	gotoxy(24,11);
 	cout<<" ENROLLMENT NO:115370693003";
 	gotoxy(24,13);
-	cout<<" GUIDE : MR.PRAFUL NANDA";
+	cout<<" GUIDE : MR.XYZ";
 
 	design(15,25,20,60);
 	gotoxy(22,17);

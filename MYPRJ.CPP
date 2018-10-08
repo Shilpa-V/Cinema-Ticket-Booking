@@ -7,10 +7,10 @@
 
      /*****************************************************************
       *	Application      : Cinema Ticket Booking	              *
-      *	Created By       : Shilpa                                     *
+      *	Created By       :                                            *
       *	Enrollment Number: 115370693003				      *
       * Subject Code     : 2620007                                    *
-      *	Guided By        : Mr. Praful Nanda                           *
+      *	Guided By        : Mr. XYZ                            *
       *****************************************************************/
 
 // Inclusion of header files
